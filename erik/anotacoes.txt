@@ -1,0 +1,11 @@
+CONEXÃO DO ZCONNECTION
+
+- db_sgc nome do BD
+- port 5432
+- senha g@10trend$3
+- protocol postgresql
+
+--Fazer o insert no btn SALVAR codigos
+
+
+--DBGrid
